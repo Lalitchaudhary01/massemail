@@ -1,0 +1,9 @@
+{
+    "SMTP_SERVER": "smtp.zoho.in",
+    "SMTP_PORT": 587,
+    "EMAIL_SENDER": "services@newweb.in",
+    "EMAIL_PASSWORD": "c4WeWVyAwfse",
+    "EMAIL_SUBJECT": "welcome of NewWeb.ai",
+    "DELAY": 10
+  }
+  
